@@ -38,4 +38,4 @@ CODE SEGMENT                     ; Start of the code segment
             MOV AH, 4CH           ; Set AH to 4CH for terminating the program
             INT 21H               ; Call interrupt 21H to terminate the program
     CODE ENDS                     ; End of the code segment
-END START                        ; End of the program with the specified entry point at START
+END START                         ; End of the program with the specified entry point at START
