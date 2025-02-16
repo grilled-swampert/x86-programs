@@ -11,6 +11,6 @@ This repository contains a collection of **x86 Assembly language programs**, des
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
-## 📧 Contact
+## Contact
 For any inquiries or suggestions, reach out to [grilled-swampert](https://github.com/grilled-swampert).
 
